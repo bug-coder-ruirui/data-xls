@@ -1,0 +1,14 @@
+{
+  "name": "data-xls",
+  "version": "1.0.1",
+  "description": "Convert array data to excel table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "coder-licoo",
+  "license": "ISC",
+  "dependencies": {
+    "data-xls": "^1.0.0"
+  }
+}
